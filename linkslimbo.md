@@ -160,3 +160,12 @@ https://start.spring.io/
 https://stackoverflow.com/questions/24006937/lombok-annotations-do-not-compile-under-intellij-idea
 https://spring.io/quickstart
 https://docs.spring.io/spring-framework/docs/current/kdoc-api/
+
+https://www.baeldung.com/spring-component-repository-service
+https://www.baeldung.com/spring-bean-names
+https://www.baeldung.com/spring-autowire
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers
+https://stackoverflow.com/questions/36173332/difference-between-valid-and-validated-in-spring
+https://www.oracle.com/pl/java/technologies/java-se-support-roadmap.html
+https://grpc.io/ - to see what is it :)
+https://en.wikipedia.org/wiki/Liskov_substitution_principle
