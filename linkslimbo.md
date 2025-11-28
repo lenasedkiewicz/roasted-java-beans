@@ -169,3 +169,8 @@ https://stackoverflow.com/questions/36173332/difference-between-valid-and-valida
 https://www.oracle.com/pl/java/technologies/java-se-support-roadmap.html
 https://grpc.io/ - to see what is it :)
 https://en.wikipedia.org/wiki/Liskov_substitution_principle
+
+https://medium.com/nerd-for-tech/introduction-to-message-brokers-bb5cacf9c70b - message brokers
+
+In Polish: https://kobietydokodu.pl/kurs-javy/
+NodeJS vs Spring Boot: https://medium.com/@ankit.exe/why-i-switched-from-node-js-to-spring-boot-and-why-you-should-too-c5cee8b01ded
